@@ -1,4 +1,4 @@
-## Primeiros Passos em Kotlin — Curso PROA ProProfissão 
+## Exercicios de Kotlin — Curso PROA ProProfissão 
 Este repositório foi criado para consolidar os primeiros passos e conceitos fundamentais da linguagem Kotlin, desenvolvidos durante as aulas do curso PROA ProProfissão.
 O arquivo principal main.kt centraliza todas as funções e exercícios práticos abordados no aprendizado. Por padrão, todas as chamadas de funções estão comentadas para que a execução do console não fique poluída e você possa focar em um aprendizado de cada vez.
 ## Como Testar os Exercícios
